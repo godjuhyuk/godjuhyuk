@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GODJUHYUK&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=GODJUHYUK&fontSize=90" />
 <br>
 
 <!--내용 부분-->
@@ -67,7 +67,6 @@
 # ✨ Stats ✨
 
 [![Godjuhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=godjuhyuk)](https://github.com/anuraghazra/github-readme-stats)
-;;;
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngur4300)](https://solved.ac/wngur4300/)
 
 </div>
