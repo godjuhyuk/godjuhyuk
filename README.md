@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=GODJUHYUK&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=My&nbsp;Info%&nbsp;:)&fontSize=90" />
 <br>
 
 <!--내용 부분-->
@@ -17,7 +17,6 @@
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 
 <br>
 
@@ -30,7 +29,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-
+	<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 	
 <!--
 # <h3 align="center">📚 Studying 📚</h3>
